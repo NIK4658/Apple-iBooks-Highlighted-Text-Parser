@@ -1,4 +1,4 @@
-# Apple-iBooks-Highlighted-Text-Parser 📚 ![StatusBadge](https://badgen.net/badge/Status/Completed/green) 
+# Apple-iBooks-Highlighted-Text-Parser 📝 ![StatusBadge](https://badgen.net/badge/Status/Completed/green) 
 
 ### This Python script exports all **notes** from the *iBooks database* and creates a *txt file* for each book.
 
